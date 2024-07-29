@@ -12,3 +12,5 @@ Lembre-se de disponibilizá-lo em um repositório público no GitHub. Como orien
 Lembre-se de que assumir o protagonismo e de criar um portfólio durante essa jornada. Isso fará toda diferença em seu desenvolvimento pessoal e profissional. 
 
 Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma e outros arquivos.
+
+Se quiserem jogar esse jogo acessem o seguinte link: https://tobiascosta04.itch.io/cavaleiro-lutador
